@@ -216,7 +216,7 @@ img {max-width: 100%;}
 /*End quote popup*/
 
 /*Banner part*/
-.banner-part{position: relative;padding-top:100px;background-repeat: no-repeat;padding-bottom: 150px;height: 70vh;}
+.banner-part{position: relative;padding-top:100px;background-repeat: no-repeat;padding-bottom: 150px;height: 90vh;}
 .section-icons{position: absolute;left: 0;right: 0;top: 0;bottom: 0;}
 .banner-part .banner-bg-left{left: -283px;top: -50px;width: 615px;height: 370px;}
 .banner-part .banner-bg-right{right: -270px;bottom: 0;width: 930px;}
