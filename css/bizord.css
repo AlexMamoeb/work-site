@@ -216,7 +216,7 @@ img {max-width: 100%;}
 /*End quote popup*/
 
 /*Banner part*/
-.banner-part{position: relative;padding-top:100px;background-repeat: no-repeat;padding-bottom: 150px;height: 90vh;}
+.banner-part{position: relative;padding-top:100px;background-repeat: no-repeat;padding-bottom: 150px;height: auto;}
 .section-icons{position: absolute;left: 0;right: 0;top: 0;bottom: 0;}
 .banner-part .banner-bg-left{left: -283px;top: -50px;width: 615px;height: 370px;}
 .banner-part .banner-bg-right{right: -270px;bottom: 0;width: 930px;}
@@ -690,7 +690,7 @@ box-shadow: 0px 6px 42px -10px rgba(0,0,0,0.10);position: relative;}
 @media(min-width:1601px){
 .banner-part .banner-bg-left{left: 0px;top:-70px;}
 .banner-part .banner-bg-right{right: 0px;/* top: 0; */}
-.banner-part{height: 60vh;}
+.banner-part{height: auto;}
 .news-part .news-bg-shape{width: 564px;height: 544px;right: 17%;top: 1%;}
 .pricing-plan-part .price-plan-bg{left: 0;top: 0;}
 .testimonial-part .tab-content{padding-top: 30px;}
@@ -711,7 +711,7 @@ box-shadow: 0px 6px 42px -10px rgba(0,0,0,0.10);position: relative;}
 .news-part .news-bg-shape{right: 8%;top: 0;}
 .pricing-plan-part .price-plan-bg{left: -107px;top: -129px;}
 .pt-150{padding-top: 150px;}
-.banner-part{height: 62vh;}
+.banner-part{height: auto;}
 }
 
 @media (min-width: 1230px){
