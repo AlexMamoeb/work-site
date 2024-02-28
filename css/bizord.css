@@ -1082,7 +1082,7 @@ svg.radial-progress{max-width: 86px;}
 .testimonial-part ul li a .testi-img1{left: 4%;}
 .testimonial-part ul li a .testi-img3{top: 20%;height: 50px;width: 50px;}
 .testimonial-part ul li a .testi-img5{top: 1%;right: 10%;}
-.whatwe-bg-img img{position: unset;width: 100%;}
+.whatwe-bg-img img{position: unset;width: 100%; visibility: visible !important;}
 .what-we-part .whatwe-pink-shape,.dot-bg{display: none;}
 .site-performance .row{margin-bottom: 20px;}
 
